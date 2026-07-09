@@ -1,0 +1,76 @@
+[
+
+  {
+
+    "FolderName": "Chef",
+
+    "ExpectedSize": 706878613,
+
+    "ZipUrl": "https://mdev.my.id/downloads/fix_chef.zip",
+
+    "IsRoot": false
+
+  },
+
+{
+
+    "FolderName": "Effect",
+
+    "ExpectedSize": 466950275,
+
+    "ZipUrl": "https://mdev.my.id/downloads/fix_effect.zip",
+
+    "IsRoot": false
+
+  },
+
+
+  {
+
+    "FolderName": "DataTable",
+
+    "ExpectedSize": 71155391,
+
+    "ZipUrl": "https://mdev.my.id/downloads/fix_datatable.zip",
+
+    "IsRoot": false
+
+  },
+
+  {
+
+    "FolderName": "Map",
+
+    "ExpectedSize": 2891870156,
+
+    "ZipUrl": "https://mdev.my.id/downloads/fix_map.zip",
+
+    "IsRoot": false
+
+  },
+
+  {
+
+    "FolderName": "System",
+
+    "ExpectedSize": 26116091,
+
+    "ZipUrl": "https://mdev.my.id/downloads/fix_system.zip",
+
+    "IsRoot": false
+
+  },
+
+  {
+
+    "FolderName": "Root",
+
+    "ExpectedSize": 150187053,
+
+    "ZipUrl": "https://mdev.my.id/downloads/fix_root.zip",
+
+    "IsRoot": true
+
+  }
+
+]
