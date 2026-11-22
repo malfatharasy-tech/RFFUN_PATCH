@@ -53,7 +53,7 @@
 
     "FolderName": "System",
 
-    "ExpectedSize": 26116091,
+    "ExpectedSize": 26396880,
 
     "ZipUrl": "https://github.com/malfatharasy-tech/RFFUN_PATCH/releases/download/V1.0/fix_system.zip",
 
@@ -65,7 +65,7 @@
 
     "FolderName": "Root",
 
-    "ExpectedSize": 150187053,
+    "ExpectedSize": 151213357,
 
     "ZipUrl": "https://github.com/malfatharasy-tech/RFFUN_PATCH/releases/download/V1.0/fix_root.zip",
 
